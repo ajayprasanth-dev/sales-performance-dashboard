@@ -29,7 +29,7 @@ To design a comprehensive sales performance dashboard that provides clear visibi
 - Insight Generation from Sales Data
 
 ## Project Files  
-- `Sales_Performance_Matrices.xlsx` – Main Excel dashboard  
+- `Sales_Performance_Matrices.xlsx`– Main Excel dashboard(https://github.com/ajayprasanth-dev/sales-performance-dashboard/blob/main/Sales_performance_metrix.xlsx)
 - `screenshots/` – Folder containing all visual references of the dashboard(https://github.com/ajayprasanth-dev/sales-performance-dashboard/tree/main/screenshots)
 
 ## Final Note  

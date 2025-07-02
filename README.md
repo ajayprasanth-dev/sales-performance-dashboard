@@ -1,38 +1,38 @@
-# 📊 Performance Matrix – 2025  
+# Sales Performance Matrix – 2025  
 *A Sales Dashboard Project Using Microsoft Excel*
 
-## 🧾 Project Overview  
-Performance Matrix – 2025 is an interactive and visually intuitive dashboard developed to analyze and monitor sales data. This project highlights the potential of Microsoft Excel for turning raw datasets into actionable business insights.
+## Project Overview  
+Sales Performance Matrix – 2025 is a visually structured Excel dashboard developed to analyze and monitor sales data. It demonstrates how Microsoft Excel can be leveraged to convert raw datasets into meaningful business insights.
 
-## 🎯 Objective  
-To design a comprehensive sales performance dashboard that enables clear visibility into key metrics such as sales trends, profit analysis, and regional comparisons.
+## Objective  
+To design a comprehensive sales performance dashboard that provides clear visibility into key metrics such as sales trends, profit analysis, and regional performance.
 
-## 📌 Key Features  
-- ✅ KPI Tracking – Total Sales, Profit, Average Sales, and Units Sold  
-- 📍 Interactive filtering by Region, Product Category, and Salesperson  
-- 📊 Clean data visuals: Line Charts, Bar Charts, Donut Charts  
-- 🎛️ Slicers for enhanced user interactivity  
-- 📁 Structured layout using Pivot Tables and Excel formulas
+## Key Features  
+- KPI tracking: Total Sales, Profit, Average Sales, Units Sold  
+- Interactive filtering by Region, Product Category, and Salesperson  
+- Clear data visualization using line charts, bar charts, and donut charts  
+- Interactive slicers for enhanced user experience  
+- Organized layout with pivot tables and formulas
 
-## 🛠️ Tools & Techniques  
+## Tools and Techniques  
 - Microsoft Excel  
-- Pivot Tables & Pivot Charts  
+- Pivot Tables and Pivot Charts  
 - Slicers  
-- Data Cleaning & Formatting  
-- Dashboard Design
+- Data Cleaning and Formatting  
+- Dashboard Layout and Design
 
-## 📈 Skills Demonstrated  
+## Skills Demonstrated  
 - Data Analysis  
-- Business Intelligence Basics  
+- Sales and Business Intelligence Reporting  
 - Dashboard Visualization  
-- Sales Data Insights  
-- Excel Automation & Layout Design
+- Excel Automation and Structuring  
+- Insight Generation from Sales Data
 
-## 📁 Files  
-- Sales_Performance_Matrices.xlsx – The main Excel dashboard file  
-- screenshots/ – Folder containing all project screenshots
+## Project Files  
+- `Sales_Performance_Matrices.xlsx` – Main Excel dashboard  
+- `screenshots/` – Folder containing all visual references of the dashboard
 
-## 🚀 Final Note  
-This project marks the beginning of my journey in data analytics, focused on translating data into meaningful insights. I’m continuously learning and excited to build more impactful projects ahead.
+## Final Note  
+This project represents an early milestone in my data analytics journey. It highlights my ability to translate raw data into business insights through visual storytelling. I look forward to building more advanced dashboards and analytics solutions in future projects.
 
-📬 Feel free to connect with me on [LinkedIn]() to share feedback or discuss analytics and collaboration opportunities.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ajayprasanth1) to share feedback or explore collaboration opportunities.
